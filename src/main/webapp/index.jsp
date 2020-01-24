@@ -2,13 +2,21 @@
 
 
 
-<h1>Hi guys just few more days</h1>
+<head>WELCOME HOME</head>
 
-<h2> DEVOPS TRAINING ON THE WAY </h2>
+<body>
+<form>
+<label>
+SELECT COLOR: <input type = "color" name = "mycolor"><br>
+SELECT DATE: <input type = "date" name = "mydate"><br>
+EMAIL ADDRESS: <input type = "email" name = "emailc" requried><br>
+WEBSITE URL: <input type = "url" name = "website" requried><br>
+WEEK: <input type = "week" name="myweek"><br>
 
 
-<h3> HAPPO TEAM IS GETTING READY </h3>
 
 
 
-<h3> GIT, MAVEN, JENKINS, ANSIBLE, DOCKER, KUBERNETES, NAGIOS </h3>
+</label>
+</form>
+</body>
