@@ -13,7 +13,7 @@ NAME: <input type="text" name="full name" requried ><br><br>
 EMAIL: <input type="email" name="alumniemail" requried><br><br>
 MOBILE/PHONE: <input type="tel" name="num"><br><br>
 YEAR OF PASSING: <input type="number" name="yop" requried><br><br>
-DOB: <input type="date" name="date"><br><br>
+DOB: <input type= "date" name="dob"><br><br>
 MARITAL STATUS: <input type="radio" name="MS" value="single" checked> SINGLE 
 <input type = "radio" name="MS" value="married"> MARRIED <br><br>
 PROFESSION: <input type="text" name="profession"><br><br>
