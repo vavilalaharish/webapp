@@ -1,0 +1,96 @@
+27-Dec-2019 20:32:33.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+27-Dec-2019 20:32:33.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+27-Dec-2019 20:32:33.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+27-Dec-2019 20:32:33.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Dec-2019 20:32:33.866 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.2
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.1+9
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:32:33.867 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:32:33.869 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Dec-2019 20:32:33.869 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Dec-2019 20:32:33.869 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Dec-2019 20:32:33.869 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50/conf/logging.properties
+27-Dec-2019 20:32:33.869 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50/temp
+27-Dec-2019 20:32:33.870 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/hvavilala/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Dec-2019 20:32:33.899 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 20:32:33.921 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 20:32:33.930 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:32:33.931 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 20:32:33.931 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 411 ms
+27-Dec-2019 20:32:33.969 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Dec-2019 20:32:33.969 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+27-Dec-2019 20:32:33.978 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/docs]
+27-Dec-2019 20:32:34.156 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/docs] has finished in [177] ms
+27-Dec-2019 20:32:34.156 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/manager]
+27-Dec-2019 20:32:34.179 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/manager] has finished in [23] ms
+27-Dec-2019 20:32:34.179 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/examples]
+27-Dec-2019 20:32:34.359 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/examples] has finished in [180] ms
+27-Dec-2019 20:32:34.359 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/ROOT]
+27-Dec-2019 20:32:34.371 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/ROOT] has finished in [11] ms
+27-Dec-2019 20:32:34.371 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/host-manager]
+27-Dec-2019 20:32:34.385 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/host-manager] has finished in [14] ms
+27-Dec-2019 20:32:34.389 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 20:32:34.395 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:32:34.396 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 464 ms
+27-Dec-2019 20:33:12.308 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+27-Dec-2019 20:33:12.309 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 20:33:12.317 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:33:12.324 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+27-Dec-2019 20:33:12.357 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 20:33:12.358 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:33:12.360 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Dec-2019 20:33:12.360 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:37:16.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+27-Dec-2019 20:37:16.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+27-Dec-2019 20:37:16.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.2
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           13.0.1+9
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:37:16.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:37:16.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Dec-2019 20:37:16.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50/conf/logging.properties
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/hvavilala/documents/webapp/apache-tomcat-8.5.50/temp
+27-Dec-2019 20:37:16.660 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/hvavilala/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+27-Dec-2019 20:37:16.689 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8090"]
+27-Dec-2019 20:37:16.707 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 20:37:16.715 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:37:16.716 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Dec-2019 20:37:16.716 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 409 ms
+27-Dec-2019 20:37:16.753 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Dec-2019 20:37:16.753 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+27-Dec-2019 20:37:16.761 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/docs]
+27-Dec-2019 20:37:16.941 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/docs] has finished in [180] ms
+27-Dec-2019 20:37:16.941 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/manager]
+27-Dec-2019 20:37:16.964 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/manager] has finished in [23] ms
+27-Dec-2019 20:37:16.964 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/examples]
+27-Dec-2019 20:37:17.147 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/examples] has finished in [183] ms
+27-Dec-2019 20:37:17.147 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/ROOT]
+27-Dec-2019 20:37:17.158 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/ROOT] has finished in [11] ms
+27-Dec-2019 20:37:17.158 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/host-manager]
+27-Dec-2019 20:37:17.173 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/hvavilala/Documents/webapp/apache-tomcat-8.5.50/webapps/host-manager] has finished in [15] ms
+27-Dec-2019 20:37:17.177 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8090"]
+27-Dec-2019 20:37:17.184 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+27-Dec-2019 20:37:17.185 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 468 ms
